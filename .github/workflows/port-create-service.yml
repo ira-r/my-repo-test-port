@@ -20,7 +20,7 @@ jobs:
   scaffold-service:
     runs-on: ubuntu-latest
     env:
-      ORG_NAME: irar-r
+      ORG_NAME: ira-r
 
     steps:
       - uses: actions/checkout@v4
